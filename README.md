@@ -1,2 +1,2 @@
 # WASI---WEB-CONNECTOR
-Conectar WAI CRM mediante a sitio web en Wordpress, ajustes en la plantilla de Wordpress
+Conectar WASI CRM mediante a sitio web en Wordpress, ajustes en la plantilla de Wordpress
